@@ -9,6 +9,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/charview" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/mvpsdk" />
+            <option value="$PROJECT_DIR$/myutils" />
+            <option value="$PROJECT_DIR$/renderscriptdemo" />
+            <option value="$PROJECT_DIR$/scansctivity" />
+            <option value="$PROJECT_DIR$/tensorflowdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -4,6 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TaoAndXu.iml" filepath="$PROJECT_DIR$/TaoAndXu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charview/charview.iml" filepath="$PROJECT_DIR$/charview/charview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpsdk/mvpsdk.iml" filepath="$PROJECT_DIR$/mvpsdk/mvpsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myutils/myutils.iml" filepath="$PROJECT_DIR$/myutils/myutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renderscriptdemo/renderscriptdemo.iml" filepath="$PROJECT_DIR$/renderscriptdemo/renderscriptdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scansctivity/scansctivity.iml" filepath="$PROJECT_DIR$/scansctivity/scansctivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflowdemo/tensorflowdemo.iml" filepath="$PROJECT_DIR$/tensorflowdemo/tensorflowdemo.iml" />
     </modules>
   </component>
 </project>
